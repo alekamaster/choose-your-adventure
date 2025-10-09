@@ -1,15 +1,32 @@
 # SECTION 2 — The Nightly Talks
 
-## 🟢 Trust
-> Clara: “I knew you’d remember. No one else ever does.”
 
 
+ **Clara:** “ I don’t know why, but I dreamed about you. It was strange.”
 
-The nights turn into a ritual. Messages drift between nostalgia and insomnia until the tone darkens.
+> You stare at the message for too long.  
+> 
+> The name *Clara* rings like an old bell.  
+> 
+> You remember her laugh in the hallways, the way hypu watched her without speaking, the years you mistook silence for dignity.
 
-> Clara: “I feel like someone’s watching me. Sometimes the house... breathes when I turn off the lights.”
+>You type slowly, almost ashamed:
 
-**Responses:**
-- [“You’re just tired. Try to rest.” *(protective)*](section3_confession.md#trust)
-- [“Breathes? Are you sure it’s not someone real?” *(curious)*](section3_confession.md#curious)
-- [“Haha, Clara… you seriously need a break.” *(mocking)*](section3_confession.md#mocking)
+“Oh?... really, I wonder why I appear in your dream *Clara*.”
+
+>And immediately wonders if he sounded too eager.  
+She replies quickly, as if she’d been waiting.
+
+ **Clara:** “You sounded the same in the dream. The same way you said my name.”
+
+> Everything comes back—desire, regret, the pulse of something half-buried.  
+> 
+> Each line she sends opens what time had only managed to cover, not heal.
+
+You reply: "Tell more about that, what was your dream about? Did I save you from a bad guy?
+
+**Clara** "Yes!!, something like that it was a really creapy dream...
+
+>You two still talking for quite a long time until both fall sleep at some point
+
+[**Continue -->*](/Final%20Proyect/section3_confession.md)

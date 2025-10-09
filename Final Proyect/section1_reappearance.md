@@ -10,14 +10,14 @@ A message.
 
 The sender’s name makes your stomach tighten.
 
-> **Lucía S.**
+ **Lucía S.**
 
-You haven’t spoken to her in years. Not since high school.  
+>You haven’t spoken to her in years. Not since high school.  
 Not since… *that night.*
 
-The message reads:
+##### The message reads:
 
-> “Hey. I just wanted to talk for a bit. Can we?”
+> “Do you remember me?”
 
 There’s nothing else.  
 No emoji. No profile picture—just the default grey silhouette.  
@@ -29,11 +29,12 @@ Still, your hand hovers over the keyboard.
 ###  Choices
 
 1. **Reply right away**  
-   [_“Sure, it’s been a while. How have you been?”_](/Final%20Proyect/section2_nights.md)  
-   > Unlocks *Lucía’s calm tone,* but her responses feel oddly delayed, like someone typing from far away.
+   [_“Sure, it’s been a while...”_](/Final%20Proyect/section2_nights.md)  
+   > *Lucía’s typing tone,* her responses feel oddly delayed, like someone typing from far away.
 
 2. **Ignore it** 
-   [- The screen stays silent for a minute… then another message arrives:  ](/Final%20Proyect/section2A_nights.md)
+
+   [The screen stays silent for a minute… then another message arrives:  ](/Final%20Proyect/section2A_nights.md)
      > “You always ignore things you don’t want to remember.”
 
 3. **Ask who this is**  
