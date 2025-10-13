@@ -19,5 +19,5 @@ A day passes. Then she texts again — but something’s wrong. Her rhythm, her 
 **Responses:**
 - [“How do you know that?”](section5_revelation.md#doubt)
 - [“I’m fine.”](section5_revelation.md#denial)
-- [“I’ll text someone else.”](section5_revelation.md#confirmation)
+- [“Continue to ignore it, aferall you're not even sure who it is.”](/Final%20Proyect/section4B_split.md)
 
