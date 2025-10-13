@@ -1,1 +1,3 @@
 After doing some digging you find out it is Clara who created the fake account! Thoughts go through your mind "Why would she pretend to be me? why would she send herself that message? Why would she blame me when she's the one behind it?"
+- [“Ask to meet with Clara to figure out what's going on”](section4A_split.md#denial)
+- [“Block Clara, you don't need that drama in your life”](section4A_split.md#denial)
