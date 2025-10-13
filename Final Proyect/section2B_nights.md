@@ -17,4 +17,6 @@ Lie. He changed numbers months ago.
 Every line she sends feels designed to comfort him—and that’s what makes it worse.  
 Her profile picture smile looks new, but the eyes are old.  
 
-He keeps replying, not out of trust, but out of the need to understand what’s pretending to be her.
+He keeps replying, not out of trust, but out of the need to understand who or what’s pretending to be her.
+
+[**Continue -->*](/Final%20Proyect/section4_split.md)
