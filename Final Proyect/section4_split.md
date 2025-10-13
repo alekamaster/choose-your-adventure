@@ -78,16 +78,3 @@ When I looked back, the room was empty.
 
 
 
-
-
-
-
-
-
-
-
-**Responses:**
-- [“How do you know that?”](section5_revelation.md#doubt)
-- [“I’m fine.”](section5_revelation.md#denial)
-- [“Continue to ignore it, aferall you're not even sure who it is.”](/Final%20Proyect/section4B_split.md)
-
