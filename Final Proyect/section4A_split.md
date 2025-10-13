@@ -1,0 +1,1 @@
+After doing some digging you find out it is Clara who created the fake account! Thoughts go through your mind "Why would she pretend to be me? why would she send herself that message? Why would she blame me when she's the one behind it?"

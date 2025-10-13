@@ -12,7 +12,7 @@
 
 >You type slowly, almost ashamed:
 
-“Oh?... really, I wonder why I appear in your dream *Clara*.”
+“Oh?... really, I wonder why I appeared in your dream, *Clara*.”
 
 >And immediately wonders if he sounded too eager.  
 She replies quickly, as if she’d been waiting.
@@ -23,10 +23,10 @@ She replies quickly, as if she’d been waiting.
 > 
 > Each line she sends opens what time had only managed to cover, not heal.
 
-You reply: "Tell more about that, what was your dream about? Did I save you from a bad guy?
+You reply: "Tell more about that, what was your dream about? Did I save you from a bad guy?"
 
-**Clara** "Yes!!, something like that it was a really creapy dream...
+**Clara** "Yes!!, something like that it was a really creapy dream..."
 
->You two still talking for quite a long time until both fall sleep at some point
+>You two continue talking for  a long time until both fall sleep.
 
 [**Continue -->*](/Final%20Proyect/section3_confession.md)
