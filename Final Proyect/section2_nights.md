@@ -1,4 +1,4 @@
-# SECTION 2 — The Nightly Talks
+# S2 - The Nightly Talks
 
 
 
@@ -27,6 +27,6 @@ You reply: "Tell more about that, what was your dream about? Did I save you from
 
 **Clara** "Yes!!, something like that it was a really creapy dream..."
 
->You two continue talking for quite a long time until both fall sleep.
+>You two continue talking for  a long time until both fall sleep.
 
 [**Continue -->*](/Final%20Proyect/section3_confession.md)
