@@ -6,4 +6,4 @@ Trying to calm Clara down you insist it wasn't you and that must be another prof
 **Choices:**
 - [“Find out who is impersonating”](section4A_split.md#denial)
 
-- [“Report the fake account”](section3B_confession.md#denial)
+- [“Report the fake account”](/Final%20Proyect/section4A_split.md)
