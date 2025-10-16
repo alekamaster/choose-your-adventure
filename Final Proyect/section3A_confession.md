@@ -1,3 +1,4 @@
+# S3 - It was not me #
 "That wasnt me! Someone is impersonating me!"
 > **Clara:** "You're lying, it's your profile!"
 
@@ -6,4 +7,4 @@ Trying to calm Clara down you insist it wasn't you and that must be another prof
 **Choices:**
 - [“Find out who is impersonating you”](section4A_split.md#denial)
 
-- [“Report the fake account”](section3B_confession.md#denial)
+- [“Report the fake account”](/Final%20Proyect/section4A_split.md)

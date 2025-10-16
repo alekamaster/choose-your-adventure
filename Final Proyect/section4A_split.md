@@ -1,4 +1,4 @@
-# A new enemy?
+# S4 - A new enemy?
 
 After doing some digging you find out it is Lucia
 >(she used to your friend at the same time than Clara)
@@ -17,5 +17,5 @@ Thoughts go through your mind...
 Lot's of thougths get into your head, but you know what need to do  in this situaton.....
 
 
-[#### Continue... ###](/Final%20Proyect/section6A_closure.md)
+[**Continue...**](/Final%20Proyect/section6A_closure.md)
 

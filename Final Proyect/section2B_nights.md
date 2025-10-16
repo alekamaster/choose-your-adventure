@@ -1,4 +1,4 @@
-# Chapter 2 - Who are you?
+# S2 - Who are you?
 
 
 
@@ -19,4 +19,4 @@ Her profile picture smile looks new, but the eyes are old.
 
 He keeps replying, not out of trust, but out of the need to understand who or what’s pretending to be her.
 
-[**Continue -->*](/Final%20Proyect/section4_split.md)
+[**Continue -->**](/Final%20Proyect/section4_split.md)

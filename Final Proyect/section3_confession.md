@@ -1,4 +1,4 @@
-# SECTION 3 — The Confession
+# S3 - The Confession
 
 One night, Clara sends screenshots.
 
