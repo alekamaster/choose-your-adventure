@@ -1,7 +1,7 @@
 # A new enemy?
 
-After doing some digging you find out it is Clara 
->(she used to your friend at the same time than Lucia)
+After doing some digging you find out it is Lucia
+>(she used to your friend at the same time than Clara)
 
 who created
 the fake account! 

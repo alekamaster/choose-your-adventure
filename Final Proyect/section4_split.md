@@ -6,8 +6,9 @@ The sender’s name makes your stomach tighten.
 
  **Lucía S.**
 
->You haven’t spoken to her.   
-Not since… *that night.*
+>(You haven’t spoken to her.)
+
+>(Not since… *that night.*)
 
 ##### The message reads:
 
