@@ -65,7 +65,7 @@ When I looked back, the room was empty.
 
 
 1. **...**  
-   [_“I forgot about it...”_](/Final%20Proyect/section5A_revelation.md)  
+   [_“I forgot about it...”_](/Final%20Proyect/section5A.md)  
    > *Lucía’s typing tone,* her responses feel oddly delayed, like someone typing from far away.
 
 2. **Wait** 
