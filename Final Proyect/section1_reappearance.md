@@ -37,9 +37,7 @@ Still, your hand hovers over the keyboard.
    [The screen stays silent for a minute… then another message arrives: ](/Final%20Proyect/section4_nights)
      > “You always ignore things you don’t want to remember.”
 
-3. **Ask who this is**  
-   [- She replies instantly:  ](/Final%20Proyect/section2B_nights.md)
-     > “You know who I am. You’re just pretending not to.”
+
 
 
 
