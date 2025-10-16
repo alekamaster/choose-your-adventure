@@ -1,4 +1,4 @@
-# Section 4 — It happened again.
+# S4 - It happened again.
 
 A message.
 
@@ -65,12 +65,12 @@ When I looked back, the room was empty.
 
 
 1. **...**  
-   [_“I forgot about it...”_](/Final%20Proyect/section5_revelation.md)  
+   [_“I forgot about it...”_](/Final%20Proyect/section5A_revelation.md)  
    > *Lucía’s typing tone,* her responses feel oddly delayed, like someone typing from far away.
 
-2. **Ignore it** 
+2. **Wait** 
 
-   [The screen stays silent for a minute… then another message arrives:  ](/Final%20Proyect/section5_revelation.md)
+   [The screen stays silent for a minute… then another message arrives:  ](/Final%20Proyect/section5A_revelation.md)
      > “You always ignore things you don’t want to remember.”
 
 3. **Ask who this is**  

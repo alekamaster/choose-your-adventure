@@ -1,5 +1,5 @@
 # Ecos of the Chat  
-## Section 1 – The First Message
+## S 1 – The First Message
 
 **Scene Description**
 
@@ -10,7 +10,7 @@ A message.
 
 The sender’s name makes your stomach tighten.
 
- **Lucía S.**
+ **Clara.**
 
 >You haven’t spoken to her in years. Not since high school.  
 Not since… *that night.*
@@ -34,7 +34,7 @@ Still, your hand hovers over the keyboard.
 
 2. **Ignore it** 
 
-   [The screen stays silent for a minute… then another message arrives: ](/Final%20Proyect/section4_nights)
+   [The screen stays silent for a minute… then another message arrives: ](/Final%20Proyect/section3A_confession.md)
      > “You always ignore things you don’t want to remember.”
 
 
