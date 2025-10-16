@@ -4,7 +4,7 @@ A message.
 
 The sender’s name makes your stomach tighten.
 
- **Lucía S.**
+ **Clara.**
 
 >(You haven’t spoken to her.)
 
@@ -21,7 +21,7 @@ Your mind starts spinning.
 The same bench. The same trembling light above the trees. The same scent of rain-soaked earth.
   
 I don’t remember raining before.
-**Lucía S.**
+**Clara.**
 > “You came back,” she said.    
 > “You always come back when it starts over.”
 
@@ -29,14 +29,14 @@ I froze.
 “What do you mean *starts over*?”
 Is this a deja vu?
 Lucua S**
-**Lucía S.**
+**Clara.**
 > “You never listen the first time,” 
 > “That’s why I tried to leave something behind... but you took it with you.”
 
 The words made no sense 
 I wanted to ask what she meant, but I noticed... this is not  a deja vu
 
-**Lucía S.**
+**Clara.**
 > “Do you remember what you promised me?” 
 **You**
 >NO? what ? I haven't promise you anything 
