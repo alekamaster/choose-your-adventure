@@ -1,4 +1,4 @@
-# SECTION 5 — The Revelation
+# S5 - The Revelation
 
 > **Clara:** “I have something for you.”  
 > *[File received: voice.mp3]*  

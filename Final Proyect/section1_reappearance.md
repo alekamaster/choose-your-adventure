@@ -1,5 +1,5 @@
 # Ecos of the Chat  
-## Section 1 – The First Message
+## S 1 – The First Message
 
 **Scene Description**
 
@@ -10,7 +10,7 @@ A message.
 
 The sender’s name makes your stomach tighten.
 
- **Lucía S.**
+ **Clara.**
 
 >You haven’t spoken to her in years. Not since high school.  
 Not since… *that night.*

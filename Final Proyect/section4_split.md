@@ -1,4 +1,4 @@
-# Section 4 — It happened again.
+# S4 - It happened again.
 
 A message.
 
