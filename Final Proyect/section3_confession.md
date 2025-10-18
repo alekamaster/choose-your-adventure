@@ -8,4 +8,5 @@ One night, Clara sends screenshots.
 ###  Choices
 - [“That wasn’t me. Someone’s impersonating me.”](section4_split.md#denial)
 - [“Calm down, Clara. Let’s figure this out.”](section4_split.md#calm)
+- [“Ignore the message, you haven't responded so far..”](section4B_split.md#calm)
 
