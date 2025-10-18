@@ -34,7 +34,7 @@ Still, your hand hovers over the keyboard.
 
 2. **Ignore it** 
 
-   [The screen stays silent for a minute… then another message arrives: ](/Final%20Proyect/section3A_confession.md)
+   [The screen stays silent for a minute… then another message arrives: ](/Final%20Proyect/section3_confession.md)
      > “You always ignore things you don’t want to remember.”
 
 3. **Ask who this is**  
